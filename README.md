@@ -4,6 +4,9 @@ I am a Graduate Student at San Jose State University (SJSU) doing Master's in So
 
 💬 Ask me about Python & Django
 
+🌱 I’m currently learning Rust
+
+
 ## 💻 Tech Stack:
 
 <img align="right" height="150" src="https://tenor.com/view/chibi-anime-angry-gif-11052819549119990274.gif" alt="anime chibi angry" />
@@ -44,11 +47,11 @@ I am a Graduate Student at San Jose State University (SJSU) doing Master's in So
 
 ## 🌐 Socials
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="medium logo"  />
-</div>
+<p align="left">
+<a href="https://linkedin.com/in/aarsheth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="28" width="28" /></a>
+<a href="https://www.leetcode.com/aasheth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="28" width="28" /></a>
+<a href="https://stackoverflow.com/users/11579399/wh0am1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="so" height="28" width="28" /></a>
+</p>
 
 ## 📊 Github Stats
 
