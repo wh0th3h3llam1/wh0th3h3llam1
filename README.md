@@ -7,7 +7,7 @@ I am a Graduate Student at San Jose State University (SJSU) doing Master's in So
 🌱 I’m currently learning Rust
 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 <img align="right" height="150" src="https://tenor.com/view/chibi-anime-angry-gif-11052819549119990274.gif" alt="anime chibi angry" />
 
