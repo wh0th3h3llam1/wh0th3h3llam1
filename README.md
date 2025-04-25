@@ -1,3 +1,5 @@
+<img src="assets/banner.png" />
+
 <h2 align="left">Hello 👋! My name is Aarsh and I'm Grad Student based in San Jose, CA</h2>
 
 I am a Graduate Student at San Jose State University (SJSU) doing Master's in Software Engineering. I have over 3 yrs of experience in Python, Django, Django REST Framework.
@@ -6,10 +8,11 @@ I am a Graduate Student at San Jose State University (SJSU) doing Master's in So
 
 🌱 I’m currently learning Rust 🦀
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## 💻 Tech Stack
 
-<img align="right" height="150" src="https://tenor.com/view/chibi-anime-angry-gif-11052819549119990274.gif" alt="anime chibi angry" />
+<img align="right" height="150" src="assets/chibi-anime-angry.gif" alt="anime chibi angry" />
 
 
 ### Primary Tech Stack
