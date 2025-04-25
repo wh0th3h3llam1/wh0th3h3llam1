@@ -2,9 +2,9 @@
 
 I am a Graduate Student at San Jose State University (SJSU) doing Master's in Software Engineering. I have over 3 yrs of experience in Python, Django, Django REST Framework.
 
-💬 Ask me about Python & Django
+💬 Ask me about Python & Django 🐍
 
-🌱 I’m currently learning Rust
+🌱 I’m currently learning Rust 🦀
 
 
 ## 💻 Tech Stack
@@ -54,6 +54,15 @@ I am a Graduate Student at San Jose State University (SJSU) doing Master's in So
 </p>
 
 ## 📊 Github Stats
+
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<!-- <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=48444630" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=48444630&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @wh0th3h3llam1" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=48444630&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a> -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wh0th3h3llam1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true" height="150" alt="stats graph"  />
