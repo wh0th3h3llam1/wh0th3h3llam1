@@ -51,7 +51,7 @@ I am a Graduate Student at San Jose State University (SJSU) doing Master's in So
 
 ## 🌐 Socials
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarsheth/)  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/aasheth)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11579399/wh0am1)
 
 <!-- <p align="left">
 <a href="https://linkedin.com/in/aarsheth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="28" width="28" /></a>
@@ -62,8 +62,8 @@ I am a Graduate Student at San Jose State University (SJSU) doing Master's in So
 ### Student Mentor
 
 ![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
-## 📊 Github Stats
 
+## 📊 Github Stats
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <!-- <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=48444630" target="_blank" style="display: block" align="center">
