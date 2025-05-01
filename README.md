@@ -2,6 +2,8 @@
 
 <h2 align="left">Hello 👋! Myself Aarsh and I'm Grad Student based in San Jose, CA</h2>
 
+With over 3.5 years of professional experience as a Backend & Full Stack Engineer and currently pursuing a Master’s Degree in Software Engineering from San Jose State University (SJSU), driven by a passion for creating efficient systems and a fast learning attitude, I’ve developed a strong foundation in Object Oriented Programming, System Design, Data Structures and Algorithms, Database Systems, and Cloud technologies. I’m proficient in Python, Django, JavaScript, TypeScript among other languages and frameworks in my skillset.
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 ## <img src="assets/skills.gif" width="30px"/> Tech Stack
