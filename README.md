@@ -1,17 +1,20 @@
 <img src="assets/banner.png" />
 
-<h2 align="left">Hello 👋! Myself Aarsh and I'm Grad Student based in San Jose, CA</h2>
 
-I am a Graduate Student at San Jose State University (SJSU) doing Master's in Software Engineering, passionate about building innovative and creative solutions for real-world problems. With around 4 years of experience in Full Stack development and cloud technologies, I am intersted in exploring new technologies that
+## <img src="assets/wave.gif" width="22px" /> Hello! Myself Aarsh and I'm Grad Student based in San Jose, CA
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-## 💻 Tech Stack
+With over 3.5 years of professional experience as a Backend & Full Stack Engineer and currently pursuing a Master’s Degree in Software Engineering from San Jose State University (SJSU), driven by a passion for creating efficient systems and a fast learning attitude, I’ve developed a strong foundation in Object Oriented Programming, System Design, Data Structures and Algorithms, Database Systems, and Cloud technologies. I’m proficient in Python, Django, JavaScript, TypeScript among other languages and frameworks in my skillset.
+
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" /> -->
+
+## <img src="assets/skills.gif" width="30px"/> Tech Stack
 
 <img align="right" height="150" src="assets/chibi-anime-angry.gif" alt="anime chibi angry" />
 
 
 ### Primary Tech Stack
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,32 +29,11 @@ I am a Graduate Student at San Jose State University (SJSU) doing Master's in So
 
 ### Cloud & DevOps
 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
-### Tools and Platforms
+## <img src="assets/connect-with-me.gif" width="36px" /> Connect with Me
 
-<div align="left">
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" /> -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="32" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" height="32" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" height="32" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="32" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" height="32" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="32" alt="amazonwebservices logo"  />
-</div>
-
-## 🌐 Socials
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarsheth/)  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/aasheth)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11579399/wh0am1)
 
 <!-- <p align="left">
 <a href="https://linkedin.com/in/aarsheth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="28" width="28" /></a>
@@ -61,9 +43,12 @@ I am a Graduate Student at San Jose State University (SJSU) doing Master's in So
 
 ### Student Mentor
 
-![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
-## 📊 Github Stats
+[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/wh0th3h3llam1)
 
+> Mentored 200+ students, on how to approach a problem and guiding them in the right direction, improving their problem-solving skills.
+
+
+## <img src="assets/target.gif" width="20px" /> GitHub Stats
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <!-- <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=48444630" target="_blank" style="display: block" align="center">
