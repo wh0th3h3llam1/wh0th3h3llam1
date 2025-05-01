@@ -2,16 +2,15 @@
 
 <h2 align="left">Hello 👋! Myself Aarsh and I'm Grad Student based in San Jose, CA</h2>
 
-I am a Graduate Student at San Jose State University (SJSU) doing Master's in Software Engineering, passionate about building innovative and creative solutions for real-world problems. With around 4 years of experience in Full Stack development and cloud technologies, I am intersted in exploring new technologies that
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-## 💻 Tech Stack
+## <img src="assets/skills.gif" width="30px"/> Tech Stack
 
 <img align="right" height="150" src="assets/chibi-anime-angry.gif" alt="anime chibi angry" />
 
 
 ### Primary Tech Stack
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
