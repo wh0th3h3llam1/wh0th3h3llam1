@@ -1,10 +1,12 @@
 <img src="assets/banner.png" />
 
-<h2 align="left">Hello 👋! Myself Aarsh and I'm Grad Student based in San Jose, CA</h2>
+
+## <img src="assets/wave.gif" width="22px" /> Hello! Myself Aarsh and I'm Grad Student based in San Jose, CA
+
 
 With over 3.5 years of professional experience as a Backend & Full Stack Engineer and currently pursuing a Master’s Degree in Software Engineering from San Jose State University (SJSU), driven by a passion for creating efficient systems and a fast learning attitude, I’ve developed a strong foundation in Object Oriented Programming, System Design, Data Structures and Algorithms, Database Systems, and Cloud technologies. I’m proficient in Python, Django, JavaScript, TypeScript among other languages and frameworks in my skillset.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" /> -->
 
 ## <img src="assets/skills.gif" width="30px"/> Tech Stack
 
@@ -29,7 +31,7 @@ With over 3.5 years of professional experience as a Backend & Full Stack Enginee
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
-## <img src="assets/connect-with-me.gif" width="44px" /> Connect with Me
+## <img src="assets/connect-with-me.gif" width="36px" /> Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarsheth/)  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/aasheth)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11579399/wh0am1)
 
@@ -45,8 +47,8 @@ With over 3.5 years of professional experience as a Backend & Full Stack Enginee
 
 > Mentored 200+ students, on how to approach a problem and guiding them in the right direction, improving their problem-solving skills.
 
-<br>
-## 📊 Github Stats
+
+## <img src="assets/target.gif" width="20px" /> GitHub Stats
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <!-- <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=48444630" target="_blank" style="display: block" align="center">
