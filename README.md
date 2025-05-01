@@ -1,5 +1,9 @@
 <img src="assets/banner.png" />
 
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=wh0th3h3llam1&style=for-the-badge)
+
 <h2 align="left">Hello 👋! Myself Aarsh and I'm Grad Student based in San Jose, CA</h2>
 
 I am a Graduate Student at San Jose State University (SJSU) doing Master's in Software Engineering, passionate about building innovative and creative solutions for real-world problems. With around 4 years of experience in Full Stack development and cloud technologies, I am intersted in exploring new technologies that
